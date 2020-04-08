@@ -1,0 +1,10 @@
+This project is designed by following the process in the tutorial video title "Creating a better todo app - the HTML and CSS" by Kelvin Powell on Youtube.
+
+A todo list app interface was created. Though the project layout is not responsive, but I gain alot of CSS tricks from it.
+
+My favourite moment was creating a custom checkbox, this has been my dream and i'm happy for the experience
+
+
+
+Alli Ibrahim
+08 april 2020.
