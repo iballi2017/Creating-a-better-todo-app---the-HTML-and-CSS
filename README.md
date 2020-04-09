@@ -4,9 +4,9 @@ This project is designed by following the process in the tutorial video title "C
 
 A todo list app interface was created. Though the project layout is not responsive, but I gain alot of CSS tricks from it.
 
-My favourite moment was creating a custom checkbox, this has been my dream and i'm happy for the experience
+My favourite moment was creating a custom checkbox, this has been my dream and i'm happy for the experience.
 
-
+I also made a another test project, where i focused only on checkboxes and radio buttons.
 
 Alli Ibrahim
 08 april 2020.
