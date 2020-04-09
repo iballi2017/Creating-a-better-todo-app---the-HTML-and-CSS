@@ -201,6 +201,7 @@ form {
     transition: transform 300ms ease-in-out;
 }
 
+/* creating and handling a check in the custom checkbox to replace the hidden actual checkbox */
 .task:hover .custom-checkbox,
 [type="checkbox"]:focus + label .custom-checkbox {
     transform: scale(1.2);
